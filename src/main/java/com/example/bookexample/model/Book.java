@@ -12,7 +12,7 @@ public class Book {
     private long id;
 
     private String author; // This is the first author of the book
-    private String title;
+    private String title; // This is the title of the book
 
     //TODO: Here we need to add the part for the library, for now it is just a placeholder as I don't have time to implement it now.
 
@@ -27,7 +27,7 @@ public class Book {
     }
 
     public Book() {
-
+        //TODO: we need to revise the implementation here
     }
 
     public String getAuthor() {
