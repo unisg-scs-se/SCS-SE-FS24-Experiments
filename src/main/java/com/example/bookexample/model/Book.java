@@ -27,7 +27,7 @@ public class Book {
     }
 
     public Book() {
-
+        //TODO: we need to revise the implementation here
     }
 
     public String getAuthor() {
