@@ -16,6 +16,8 @@ public class Book {
 
     //TODO: Here we need to add the part for the library, for now it is just a placeholder as I don't have time to implement it now.
 
+    //TODO: We also need to override the toString method.
+
     private String editor;
 
 
